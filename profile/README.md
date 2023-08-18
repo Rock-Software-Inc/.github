@@ -1,12 +1,8 @@
-## Hi there 👋
+## We gonna Rock your Software! 🤘
+![website preview](https://raw.githubusercontent.com/victorinknov/confiadesign/master/screenshot.png)
 
-<!--
+## Visual Content and Artworks
+All visual content, with the exception of these that has a referrer, was created and copyrighted by Rock Software Inc. If you would like to use any available logo, work or branding, please contact us by email: rocksoftware@rocketship.com.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Visit
+[Rock! Software](https://rocksoftware.org)
