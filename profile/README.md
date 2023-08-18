@@ -1,4 +1,4 @@
-## We gonna Rock your Software! 🤘
+## We Gonna Rock your Software! 🤘
 ![website preview](https://raw.githubusercontent.com/Rock-Software-Inc/.github/main/image.png)
 
 ## Visual Content and Artworks
